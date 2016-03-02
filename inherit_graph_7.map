@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOpenPSTD_1_1CLI_1_1EditCommandPart.html" title="OpenPSTD::CLI::EditCommandPart" alt="" coords="6,307,239,333"/>
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1CLI_1_1AddDomainEditCommandPart.html" title="OpenPSTD::CLI::AddDomain\lEditCommandPart" alt="" coords="304,5,499,46"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1CLI_1_1AddReceiverEditCommandPart.html" title="OpenPSTD::CLI::AddReceiver\lEditCommandPart" alt="" coords="301,70,502,111"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1CLI_1_1AddSpeakerEditCommandPart.html" title="OpenPSTD::CLI::AddSpeaker\lEditCommandPart" alt="" coords="303,135,500,177"/>
+<area shape="rect" id="node5" href="$classOpenPSTD_1_1CLI_1_1ChangeDomainEditCommandPart.html" title="OpenPSTD::CLI::ChangeDomain\lEditCommandPart" alt="" coords="293,201,509,242"/>
+<area shape="rect" id="node6" href="$classOpenPSTD_1_1CLI_1_1ChangeEdgeAbsorptionEditCommandPart.html" title="OpenPSTD::CLI::ChangeEdge\lAbsorptionEditCommandPart" alt="" coords="301,266,502,307"/>
+<area shape="rect" id="node7" href="$classOpenPSTD_1_1CLI_1_1ChangeEdgeLREditCommandPart.html" title="OpenPSTD::CLI::ChangeEdge\lLREditCommandPart" alt="" coords="301,331,502,373"/>
+<area shape="rect" id="node8" href="$classOpenPSTD_1_1CLI_1_1RemoveDomainEditCommandPart.html" title="OpenPSTD::CLI::RemoveDomain\lEditCommandPart" alt="" coords="291,397,511,438"/>
+<area shape="rect" id="node9" href="$classOpenPSTD_1_1CLI_1_1RemoveReceiverEditCommandPart.html" title="OpenPSTD::CLI::RemoveReceiver\lEditCommandPart" alt="" coords="288,462,515,503"/>
+<area shape="rect" id="node10" href="$classOpenPSTD_1_1CLI_1_1RemoveSpeakerEditCommandPart.html" title="OpenPSTD::CLI::RemoveSpeaker\lEditCommandPart" alt="" coords="290,527,513,569"/>
+<area shape="rect" id="node11" href="$classOpenPSTD_1_1CLI_1_1SetOptionEditCommandPart.html" title="OpenPSTD::CLI::SetOption\lEditCommandPart" alt="" coords="309,593,493,634"/>
+</map>

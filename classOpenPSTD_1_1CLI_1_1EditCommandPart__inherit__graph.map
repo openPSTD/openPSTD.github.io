@@ -1,0 +1,12 @@
+<map id="OpenPSTD::CLI::EditCommandPart" name="OpenPSTD::CLI::EditCommandPart">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1CLI_1_1AddDomainEditCommandPart.html" title="{OpenPSTD::CLI::AddDomain\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="5,147,200,253"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1CLI_1_1AddReceiverEditCommandPart.html" title="{OpenPSTD::CLI::AddReceiver\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="225,147,425,253"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1CLI_1_1AddSpeakerEditCommandPart.html" title="{OpenPSTD::CLI::AddSpeaker\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="451,147,648,253"/>
+<area shape="rect" id="node5" href="$classOpenPSTD_1_1CLI_1_1ChangeDomainEditCommandPart.html" title="{OpenPSTD::CLI::ChangeDomain\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="672,147,888,253"/>
+<area shape="rect" id="node6" href="$classOpenPSTD_1_1CLI_1_1ChangeEdgeAbsorptionEditCommandPart.html" title="{OpenPSTD::CLI::ChangeEdge\lAbsorptionEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="913,147,1113,253"/>
+<area shape="rect" id="node7" href="$classOpenPSTD_1_1CLI_1_1ChangeEdgeLREditCommandPart.html" title="{OpenPSTD::CLI::ChangeEdge\lLREditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="1138,147,1339,253"/>
+<area shape="rect" id="node8" href="$classOpenPSTD_1_1CLI_1_1RemoveDomainEditCommandPart.html" title="{OpenPSTD::CLI::RemoveDomain\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="1363,147,1583,253"/>
+<area shape="rect" id="node9" href="$classOpenPSTD_1_1CLI_1_1RemoveReceiverEditCommandPart.html" title="{OpenPSTD::CLI::RemoveReceiver\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="1608,147,1835,253"/>
+<area shape="rect" id="node10" href="$classOpenPSTD_1_1CLI_1_1RemoveSpeakerEditCommandPart.html" title="{OpenPSTD::CLI::RemoveSpeaker\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="1859,147,2081,253"/>
+<area shape="rect" id="node11" href="$classOpenPSTD_1_1CLI_1_1SetOptionEditCommandPart.html" title="{OpenPSTD::CLI::SetOption\lEditCommandPart\n||+ AddOptions()\l+ Execute()\l}" alt="" coords="2107,147,2291,253"/>
+</map>

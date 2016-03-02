@@ -1,0 +1,4 @@
+<map id="OpenPSTD::Kernel::KernelInterface" name="OpenPSTD::Kernel::KernelInterface">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1Kernel_1_1MockKernel.html" title="Fake kernel useful for testing the interaction between kernel and CLI or GUI. " alt="" coords="5,184,215,291"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1Kernel_1_1PSTDKernel.html" title="The API with methods that run the simulation from a PSTDFile. " alt="" coords="241,177,455,298"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OpenPSTD::GUI::MouseStrategy" name="OpenPSTD::GUI::MouseStrategy">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1GUI_1_1MouseCreateDomainStrategy.html" title="{OpenPSTD::GUI::MouseCreate\lDomainStrategy\n||+ mousePressEvent()\l+ mouseMoveEvent()\l+ mouseReleaseEvent()\l}" alt="" coords="5,197,211,318"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1GUI_1_1MouseCreateSpeakerReceiverStrategy.html" title="{OpenPSTD::GUI::MouseCreate\lSpeakerReceiverStrategy\n||+ MouseCreateSpeakerReceiver\lStrategy()\l+ mouseMoveEvent()\l+ mouseReleaseEvent()\l}" alt="" coords="235,189,447,325"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1GUI_1_1MouseMoveSceneStrategy.html" title="{OpenPSTD::GUI::MouseMove\lSceneStrategy\n||+ mousePressEvent()\l+ mouseMoveEvent()\l+ wheelEvent()\l}" alt="" coords="471,197,669,318"/>
+<area shape="rect" id="node5" href="$classOpenPSTD_1_1GUI_1_1MouseSelectStrategy.html" title="{OpenPSTD::GUI::MouseSelect\lStrategy\n||+ mouseReleaseEvent()\l}" alt="" coords="695,211,900,303"/>
+<area shape="rect" id="node6" href="$classOpenPSTD_1_1GUI_1_1MouseVoidStrategy.html" title="{OpenPSTD::GUI::MouseVoid\lStrategy\n||}" alt="" coords="924,211,1119,303"/>
+</map>

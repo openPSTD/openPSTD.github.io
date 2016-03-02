@@ -1,0 +1,6 @@
+<map id="OpenPSTD::Kernel::Solver" name="OpenPSTD::Kernel::Solver">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1Kernel_1_1GPUMultiThreadSolver.html" title="Solver that both utilized multiple cores and the GPU. " alt="" coords="5,190,203,282"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1Kernel_1_1GPUSingleThreadSolver.html" title="Solver that performs the computational intensive parts on a GPU. " alt="" coords="227,190,433,282"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1Kernel_1_1MultiThreadSolver.html" title="Solver that exploits the multiple CPU cores of a machine. " alt="" coords="459,190,668,282"/>
+<area shape="rect" id="node5" href="$classOpenPSTD_1_1Kernel_1_1SingleThreadSolver.html" title="Default singlethreaded solver. " alt="" coords="693,190,872,282"/>
+</map>

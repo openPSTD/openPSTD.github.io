@@ -1,0 +1,5 @@
+<map id="OpenPSTD::GUI::SelectIndexedObjectOperation" name="OpenPSTD::GUI::SelectIndexedObjectOperation">
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1GUI_1_1DeselectOperation.html" title="{OpenPSTD::GUI::DeselectOperation\n||+ DeselectOperation()\l}" alt="" coords="5,293,241,371"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1GUI_1_1SelectDomainOperation.html" title="{OpenPSTD::GUI::SelectDomain\lOperation\n||+ SelectDomainOperation()\l}" alt="" coords="267,286,476,378"/>
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1GUI_1_1BaseOperation.html" title="{OpenPSTD::GUI::BaseOperation\n||+ Run()\l}" alt="" coords="141,5,355,83"/>
+</map>

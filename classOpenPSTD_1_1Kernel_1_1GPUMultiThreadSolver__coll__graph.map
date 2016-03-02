@@ -1,0 +1,4 @@
+<map id="OpenPSTD::Kernel::GPUMultiThreadSolver" name="OpenPSTD::Kernel::GPUMultiThreadSolver">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1Kernel_1_1Solver.html" title="Component that computes the state variables of the scene for consecutive time steps. " alt="" coords="15,193,193,314"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1Kernel_1_1KernelCallback.html" title="Callback interface for communication with the CLI or the GUI. " alt="" coords="15,6,193,127"/>
+</map>

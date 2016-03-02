@@ -1,0 +1,5 @@
+<map id="OpenPSTD::GUI::ModifyWorldMatrix" name="OpenPSTD::GUI::ModifyWorldMatrix">
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1GUI_1_1ResizeScene.html" title="{OpenPSTD::GUI::ResizeScene\n||+ ResizeScene()\l}" alt="" coords="5,309,211,387"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1GUI_1_1TranslateScene.html" title="{OpenPSTD::GUI::Translate\lScene\n||+ TranslateScene()\l}" alt="" coords="235,302,417,394"/>
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1GUI_1_1BaseOperation.html" title="{OpenPSTD::GUI::BaseOperation\n||+ Run()\l}" alt="" coords="110,5,324,83"/>
+</map>

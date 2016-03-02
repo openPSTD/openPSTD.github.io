@@ -1,0 +1,6 @@
+\form#0:$rho$
+\form#1:$\rho$
+\form#2:$p_0(x,y) = e^{-\beta((x-x_s)^2+(y-y_s)^2)}$
+\form#3:$\beta = -3e^{-6}c^2/dx^2$
+\form#4:$(x_s,y_s)$
+\form#5:$\log_2$

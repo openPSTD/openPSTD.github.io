@@ -1,0 +1,4 @@
+<map id="OpenPSTD::GUI::EditDocumentSettingsOperation" name="OpenPSTD::GUI::EditDocumentSettingsOperation">
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1GUI_1_1BaseOperation.html" title="{OpenPSTD::GUI::BaseOperation\n||+ Run()\l}" alt="" coords="5,79,219,156"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1Kernel_1_1PSTDSettings.html" title="A collection of parameters and settings for the simulation. " alt="" coords="244,5,471,229"/>
+</map>

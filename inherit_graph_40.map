@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOpenPSTD_1_1Kernel_1_1Solver.html" title="Component that computes the state variables of the scene for consecutive time steps. " alt="" coords="5,111,184,137"/>
+<area shape="rect" id="node2" href="$classOpenPSTD_1_1Kernel_1_1GPUMultiThreadSolver.html" title="Solver that both utilized multiple cores and the GPU. " alt="" coords="238,5,437,46"/>
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1Kernel_1_1GPUSingleThreadSolver.html" title="Solver that performs the computational intensive parts on a GPU. " alt="" coords="234,70,441,111"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1Kernel_1_1MultiThreadSolver.html" title="Solver that exploits the multiple CPU cores of a machine. " alt="" coords="232,135,443,177"/>
+<area shape="rect" id="node5" href="$classOpenPSTD_1_1Kernel_1_1SingleThreadSolver.html" title="Default singlethreaded solver. " alt="" coords="248,201,427,242"/>
+</map>

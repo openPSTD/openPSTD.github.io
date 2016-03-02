@@ -1,0 +1,4 @@
+<map id="OpenPSTD::GUI::Settings" name="OpenPSTD::GUI::Settings">
+<area shape="rect" id="node3" href="$classOpenPSTD_1_1GUI_1_1VisualSettings.html" title="{OpenPSTD::GUI::VisualSettings\n|+ EdgeSize\l+ colorScheme\l|}" alt="" coords="145,13,359,105"/>
+<area shape="rect" id="node4" href="$classOpenPSTD_1_1GUI_1_1SnappingSettings.html" title="{OpenPSTD::GUI::SnappingSettings\n|+ SnapToGrid\l+ SnapToDomainEdges\l+ SnapToDomainEdgesDistance\l|}" alt="" coords="383,5,613,112"/>
+</map>
